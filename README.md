@@ -1,6 +1,6 @@
-<img src="https://64.media.tumblr.com/49859d939f6eeb49e2fc33e3d78f1b93/tumblr_p65s5aE4Db1qimk8ao2_r1_500.gifv"></img>
-
 ### Hi, I'm Ahmad Junaedi 👋
+
+<img src="https://media1.tenor.com/images/147d722dced9c8e41073ee6059171779/tenor.gif?itemid=14680553"></img>
 
 - 🔭 I’m currently intern on Bea Cukai
 - 🌱 I’m currently learning JavaScript and React
