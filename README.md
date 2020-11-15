@@ -1,3 +1,5 @@
+<img src="https://64.media.tumblr.com/49859d939f6eeb49e2fc33e3d78f1b93/tumblr_p65s5aE4Db1qimk8ao2_r1_500.gifv"></img>
+
 ### Hi, I'm Ahmad Junaedi 👋
 
 - 🔭 I’m currently intern on Bea Cukai
