@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/images/147d722dced9c8e41073ee6059171779/tenor.gif?itemid=14680553"></img>
 
-- 🔭 I’m currently intern on Bea Cukai
+- 🔭 I’m currently intern on -
 - 🌱 I’m currently learning ànything about web development
 - 📫 How to reach me: [Instagram - @klotzen_](https://www.instagram.com/klotzen_/)
 
